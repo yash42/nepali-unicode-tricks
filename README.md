@@ -4,6 +4,8 @@
 
 र + ् + ZWJ + य -> र्‍य </br>
 र + ् + ZWNJ + य -> र्‌य </br>
-
-ZWJ in Sanskrit Keyboard: Ctrl+Shift+1 </br>
-ZWNJ in Sanskrit Keyboard: Ctrl+Shift+2 </br>
+--------------------------------
+## ZWJ & ZWNJ Shortcut
+1. Sanskrit Keyboard: </br>
+    - ZWJ: Ctrl+Shift+1 </br>
+    - ZWNJ: Ctrl+Shift+2 </br>
