@@ -9,6 +9,6 @@
 1. Sanskrit Keyboard: </br>
     - ZWJ: Ctrl+Shift+1 </br>
     - ZWNJ: Ctrl+Shift+2 </br>
-2. Romanized Nepali Keyboard:
+2. Traditional/Romanized Nepali Keyboard:
     - ZWJ: =
     - ZWNJ: +
