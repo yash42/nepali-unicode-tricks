@@ -1,1 +1,3 @@
-# nepali-unicode-tricks
+# नेपाली युनिकोड सम्बन्धी tricks
+
+
